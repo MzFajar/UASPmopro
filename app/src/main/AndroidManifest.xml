@@ -16,6 +16,8 @@
         <activity android:name=".ChangePasswordActivity" />
         <activity android:name=".DashboardActivity" />
         <activity android:name=".auth.RegisterActivity" />
+        <activity android:name=".CreateActivity" />
+        <activity android:name=".DeleteActivity" />
         <activity android:name=".auth.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

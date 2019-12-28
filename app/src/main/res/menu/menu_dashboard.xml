@@ -6,4 +6,10 @@
     <item
         android:id="@+id/menu_account"
         android:title="Account" />
+    <item
+        android:id="@+id/menu_create"
+        android:title="Create" />
+    <item
+        android:id="@+id/menu_delete"
+        android:title="Delete" />
 </menu>
